@@ -2,6 +2,7 @@
 import { useEffect } from "react";
 import Navbar from "@/components/Navbar";
 import ProductGrid from "@/components/ProductGrid";
+import ProductCard from "@/components/ProductCard";
 
 const Products = () => {
   useEffect(() => {
